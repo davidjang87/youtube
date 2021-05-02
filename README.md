@@ -1,6 +1,6 @@
-# 일팔팔
+# 188 history
 
-> 안녕하세요. 일팔팔입니다.
-> 5 월 2 일 4시취침
-> 5 월 2 일 19시기상
+> hi. my nickname is 188 
+> May 2nd 4 o'clock bedtime
+> May 3nd 19:00 Wake Up
 > 
