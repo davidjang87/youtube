@@ -17,3 +17,5 @@
 > May 7nd 8 o'clock Wake Up
 >
 > May 8nd holiday
+>
+> May 8nd 16 o'clock Wake Up
