@@ -39,3 +39,5 @@
 > May 17nd 7 o'clock Wake Up
 > 
 > May 18nd 4 o'clock bedtime
+>
+> May 18nd 8 o'clock Wake Up
