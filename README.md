@@ -49,5 +49,7 @@
 > May 21nd 8 o'clock Wake Up
 > >
 > May 22nd 8 o'clock Wake Up
-> >
+> 
 > May 23nd holiday
+> 
+> May 24nd 8 o'clock Wake Up
