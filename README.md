@@ -69,3 +69,5 @@
 > may 31nd 7 o'clock Wake Up
 > 
 > jun 1nd 8 o'clock Wake Up
+> 
+> jun 2nd 8 o'clock Wake Up
