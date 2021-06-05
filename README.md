@@ -75,3 +75,5 @@
 > jun 3nd 8 o'clock Wake Up
 > 
 > jun 4nd 8 o'clock Wake Up
+> 
+> jun 5nd 9 o'clock Wake Up
