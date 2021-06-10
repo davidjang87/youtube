@@ -81,3 +81,5 @@
 > jun 6nd 11 o'clock Wake Up
 > 
 > jun 7nd 8 o'clock Wake Up
+> 
+> jun 10nd 8 o'clock Wake Up
